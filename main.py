@@ -27,7 +27,7 @@ def run_web():
     app_web.run(host='0.0.0.0', port=port, debug=False, use_reloader=False)
 
 # --- توکن و آیدی ادمین ---
-TOKEN = '8305364438:AAGAT39wGQey9tzxMVafEiRRXz1eGNvpfhY'
+TOKEN = '8765075222:AAFT6p_zeYmEcahPoezxtUeqMlsGz0Ra35o'
 ADMIN_ID = 1374345602
 
 # --- مسیر دیتابیس ---
